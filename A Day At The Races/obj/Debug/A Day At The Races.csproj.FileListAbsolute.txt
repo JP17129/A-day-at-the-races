@@ -1,0 +1,5 @@
+C:\Users\jp171\Desktop\C# Work\A Day At The Races\A Day At The Races\bin\Debug\A Day At The Races.exe.config
+C:\Users\jp171\Desktop\C# Work\A Day At The Races\A Day At The Races\obj\Debug\A Day At The Races.csprojResolveAssemblyReference.cache
+C:\Users\jp171\Desktop\C# Work\A Day At The Races\A Day At The Races\obj\Debug\A_Day_At_The_Races.Form1.resources
+C:\Users\jp171\Desktop\C# Work\A Day At The Races\A Day At The Races\obj\Debug\A_Day_At_The_Races.Properties.Resources.resources
+C:\Users\jp171\Desktop\C# Work\A Day At The Races\A Day At The Races\obj\Debug\A Day At The Races.csproj.GenerateResource.Cache
