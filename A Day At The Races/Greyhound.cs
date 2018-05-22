@@ -14,7 +14,7 @@ namespace A_Day_At_The_Races
         public int RacetrackLength; //How long the racetrack is
         public PictureBox MyPictureBox = null; //MyPictureBox object
         public int Location = 0; // My Location on the racetrack
-        public Random Randomizer; // An instance of Random (You only need one instance of Random - each Greyhoun's Ranomzier reference should point to the same Random object
+        //public Random Randomizer; // An instance of Random (You only need one instance of Random - each Greyhoun's Ranomzier reference should point to the same Random object
         public bool GoingForward = true;
         public string Name;
         public bool Winner;
@@ -23,7 +23,7 @@ namespace A_Day_At_The_Races
         public bool Run()
         {
             Random Randomizer = new Random();
-            int move = Randomizer.Next(1,6);
+            int move = Randomizer.Next(0,10);
             Location = Location + move;
             MyPictureBox.Left = StartingPosition + Location;
             if (MyPictureBox.Left >= RacetrackLength)
@@ -35,17 +35,12 @@ namespace A_Day_At_The_Races
             {
                 return false;
             }
-
-
-
-
         }
-        public void TakeStartingPostion()
+
+
+        public void TakeStartingPosition()
         {
-            Location = 0;
             MyPictureBox.Left = StartingPosition;
         }
-
-
     }
 }

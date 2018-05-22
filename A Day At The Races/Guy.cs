@@ -9,8 +9,6 @@ namespace A_Day_At_The_Races
 {
     public class Guy
     {
-        public class Guy
-        {
             public string Name;
             public Bet MyBet;
             public int Cash;
@@ -50,6 +48,7 @@ namespace A_Day_At_The_Races
                 if (Amount <= Cash)
                 {
                     MyBet = new Bet(Amount, Dog, this);
+                    UpdateLabels();
                     return true;
                 }
                 return false;
@@ -61,4 +60,3 @@ namespace A_Day_At_The_Races
             }
         }
     }
-}

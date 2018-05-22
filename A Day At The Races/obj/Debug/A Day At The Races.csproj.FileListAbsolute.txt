@@ -3,3 +3,13 @@ C:\Users\jp171\Desktop\C# Work\A Day At The Races\A Day At The Races\obj\Debug\A
 C:\Users\jp171\Desktop\C# Work\A Day At The Races\A Day At The Races\obj\Debug\A_Day_At_The_Races.Form1.resources
 C:\Users\jp171\Desktop\C# Work\A Day At The Races\A Day At The Races\obj\Debug\A_Day_At_The_Races.Properties.Resources.resources
 C:\Users\jp171\Desktop\C# Work\A Day At The Races\A Day At The Races\obj\Debug\A Day At The Races.csproj.GenerateResource.Cache
+C:\Users\TwiztedNipple\Desktop\A-day-at-the-races\A Day At The Races\bin\Debug\A Day At The Races.exe.config
+C:\Users\TwiztedNipple\Desktop\A-day-at-the-races\A Day At The Races\bin\Debug\A Day At The Races.exe
+C:\Users\TwiztedNipple\Desktop\A-day-at-the-races\A Day At The Races\bin\Debug\A Day At The Races.pdb
+C:\Users\TwiztedNipple\Desktop\A-day-at-the-races\A Day At The Races\obj\Debug\A Day At The Races.csprojResolveAssemblyReference.cache
+C:\Users\TwiztedNipple\Desktop\A-day-at-the-races\A Day At The Races\obj\Debug\A_Day_At_The_Races.Form1.resources
+C:\Users\TwiztedNipple\Desktop\A-day-at-the-races\A Day At The Races\obj\Debug\A_Day_At_The_Races.Properties.Resources.resources
+C:\Users\TwiztedNipple\Desktop\A-day-at-the-races\A Day At The Races\obj\Debug\A Day At The Races.csproj.GenerateResource.cache
+C:\Users\TwiztedNipple\Desktop\A-day-at-the-races\A Day At The Races\obj\Debug\A Day At The Races.csproj.CoreCompileInputs.cache
+C:\Users\TwiztedNipple\Desktop\A-day-at-the-races\A Day At The Races\obj\Debug\A Day At The Races.exe
+C:\Users\TwiztedNipple\Desktop\A-day-at-the-races\A Day At The Races\obj\Debug\A Day At The Races.pdb
